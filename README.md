@@ -82,7 +82,8 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 
 ## Output :
-![ex 1a output](https://github.com/user-attachments/assets/6d98a9f0-cce1-4e13-af73-0620f267d551)
+![371225307-6d98a9f0-cce1-4e13-af73-0620f267d551](https://github.com/user-attachments/assets/2270f30d-c6e8-44a3-becf-41ef42e284bd)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
